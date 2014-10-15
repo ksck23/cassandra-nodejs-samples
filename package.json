@@ -1,0 +1,12 @@
+{
+  "name": "node-cassandra-snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cassandra-driver": "^1.0.0"
+  },
+  "devDependencies": {},
+  "author": "Shiva Chandra Kumar K",
+  "license": "MIT"
+}
